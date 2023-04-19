@@ -29,4 +29,4 @@ The blocks are assigned to threads as follows: for a thread with number i, n/m c
 
 ## Acknowledgements
 
-This project was based on the project guidelines provided by Professor Srinivasan Avinashilingam for CS/SE 3377 Sys. Prog. in Unix and Other Env. at the University of Texas at Dallas.
+This project was based on the project guidelines provided by Professor Sridhar Alagar for CS/SE 3377 Sys. Prog. in Unix and Other Env. at the University of Texas at Dallas.
