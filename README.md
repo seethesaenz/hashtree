@@ -8,7 +8,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 
-git clone https://github.com/username/multi-threaded-hash-tree.git
+git clone https://github.com/seethesaenz/multi-threaded-hash-tree.git
 cd multi-threaded-hash-tree
 ```
 ## Usage
